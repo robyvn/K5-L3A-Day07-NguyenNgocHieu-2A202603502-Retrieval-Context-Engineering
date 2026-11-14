@@ -1,0 +1,788 @@
+[
+  {
+    "query_id": "q16",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "Điều 3 Luật Đường bộ 2024 mục tiêu hoạt động đường bộ",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p1_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 1,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+            "metadata": {
+              "chapter": "Chương I",
+              "is_empty": false,
+              "char_count": 1567,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.031544957774465976,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p66_struct_001",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 66,
+            "text": "Điều 81. Nội dung quản lý nhà nước về hoạt động đường bộ \n1. Xây dựng, ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức \nthực hiện chính sách, pháp luật; quy chuẩn, tiêu chuẩn kỹ thuật, định mức kinh tế - \nkỹ thuật về hoạt động đường bộ. 2. Xây dựng, ban hành và tổ chức thực hiện quy hoạch, kế hoạch về hoạt động \nđường bộ. 3. Tuyên truyền, phổ biến, giáo dục pháp luật trong hoạt động đường bộ. 4. Đầu tư , xây dựng, quản lý, vận hành, khai thác, bảo trì, bảo vệ kết cấu hạ \ntầng đường bộ. 5. Quản lý vận tải và dịch vụ hỗ trợ vận tải đường bộ. 6. Tổ chức nghiên cứu, ứng dụng khoa học và công nghệ; đào tạo, bồi dưỡng \nnguồn nhân lực trong hoạt động đường bộ. 7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo; xử lý vi phạm pháp luật \ntrong hoạt động đường bộ. 8.",
+            "metadata": {
+              "chapter": "Chương V",
+              "is_empty": false,
+              "char_count": 1765,
+              "chunk_index": 1,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p67_struct_003",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 3,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p66_struct_001 | luat_duong_bo_35_2024_qh15.pdf | page 66]\nĐiều 81. Nội dung quản lý nhà nước về hoạt động đường bộ \n1. Xây dựng, ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức \nthực hiện chính sách, pháp luật; quy chuẩn, tiêu chuẩn kỹ thuật, định mức kinh tế - \nkỹ thuật về hoạt động đường bộ. 2. Xây dựng, ban hành và tổ chức thực hiện quy hoạch, kế hoạch về hoạt động \nđường bộ. 3. Tuyên truyền, phổ biến, giáo dục pháp luật trong hoạt động đường bộ. 4. Đầu tư , xây dựng, quản lý, vận hành, khai thác, bảo trì, bảo vệ kết cấu hạ \ntầng đường bộ. 5. Quản lý vận tải và dịch vụ hỗ trợ vận tải đường bộ. 6. Tổ chức nghiên cứu, ứng dụng khoa học và công nghệ; đào tạo, bồi dưỡng \nnguồn nhân lực trong hoạt động đường bộ. 7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo; xử lý vi phạm pháp luật \ntrong hoạt động đường bộ. 8.",
+        "context_ids": [
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p66_struct_001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Điều 3 Luật Đường bộ 2024 mục tiêu hoạt động đường bộ",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p1_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 1,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+            "metadata": {
+              "chapter": "Chương I",
+              "is_empty": false,
+              "char_count": 1567,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.031544957774465976,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p66_struct_001",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 66,
+            "text": "Điều 81. Nội dung quản lý nhà nước về hoạt động đường bộ \n1. Xây dựng, ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức \nthực hiện chính sách, pháp luật; quy chuẩn, tiêu chuẩn kỹ thuật, định mức kinh tế - \nkỹ thuật về hoạt động đường bộ. 2. Xây dựng, ban hành và tổ chức thực hiện quy hoạch, kế hoạch về hoạt động \nđường bộ. 3. Tuyên truyền, phổ biến, giáo dục pháp luật trong hoạt động đường bộ. 4. Đầu tư , xây dựng, quản lý, vận hành, khai thác, bảo trì, bảo vệ kết cấu hạ \ntầng đường bộ. 5. Quản lý vận tải và dịch vụ hỗ trợ vận tải đường bộ. 6. Tổ chức nghiên cứu, ứng dụng khoa học và công nghệ; đào tạo, bồi dưỡng \nnguồn nhân lực trong hoạt động đường bộ. 7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo; xử lý vi phạm pháp luật \ntrong hoạt động đường bộ. 8.",
+            "metadata": {
+              "chapter": "Chương V",
+              "is_empty": false,
+              "char_count": 1765,
+              "chunk_index": 1,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p67_struct_003",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 3,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p66_struct_001 | luat_duong_bo_35_2024_qh15.pdf | page 66]\nĐiều 81. Nội dung quản lý nhà nước về hoạt động đường bộ \n1. Xây dựng, ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức \nthực hiện chính sách, pháp luật; quy chuẩn, tiêu chuẩn kỹ thuật, định mức kinh tế - \nkỹ thuật về hoạt động đường bộ. 2. Xây dựng, ban hành và tổ chức thực hiện quy hoạch, kế hoạch về hoạt động \nđường bộ. 3. Tuyên truyền, phổ biến, giáo dục pháp luật trong hoạt động đường bộ. 4. Đầu tư , xây dựng, quản lý, vận hành, khai thác, bảo trì, bảo vệ kết cấu hạ \ntầng đường bộ. 5. Quản lý vận tải và dịch vụ hỗ trợ vận tải đường bộ. 6. Tổ chức nghiên cứu, ứng dụng khoa học và công nghệ; đào tạo, bồi dưỡng \nnguồn nhân lực trong hoạt động đường bộ. 7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo; xử lý vi phạm pháp luật \ntrong hoạt động đường bộ. 8.",
+        "context_ids": [
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p66_struct_001"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "Điều 3 Luật Đường bộ 2024 mục tiêu hoạt động đường bộ",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p1_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 1,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+            "metadata": {
+              "chapter": "Chương I",
+              "is_empty": false,
+              "char_count": 1567,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.031544957774465976,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p66_struct_001",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 66,
+            "text": "Điều 81. Nội dung quản lý nhà nước về hoạt động đường bộ \n1. Xây dựng, ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức \nthực hiện chính sách, pháp luật; quy chuẩn, tiêu chuẩn kỹ thuật, định mức kinh tế - \nkỹ thuật về hoạt động đường bộ. 2. Xây dựng, ban hành và tổ chức thực hiện quy hoạch, kế hoạch về hoạt động \nđường bộ. 3. Tuyên truyền, phổ biến, giáo dục pháp luật trong hoạt động đường bộ. 4. Đầu tư , xây dựng, quản lý, vận hành, khai thác, bảo trì, bảo vệ kết cấu hạ \ntầng đường bộ. 5. Quản lý vận tải và dịch vụ hỗ trợ vận tải đường bộ. 6. Tổ chức nghiên cứu, ứng dụng khoa học và công nghệ; đào tạo, bồi dưỡng \nnguồn nhân lực trong hoạt động đường bộ. 7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo; xử lý vi phạm pháp luật \ntrong hoạt động đường bộ. 8.",
+            "metadata": {
+              "chapter": "Chương V",
+              "is_empty": false,
+              "char_count": 1765,
+              "chunk_index": 1,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p67_struct_003",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 3,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p66_struct_001 | luat_duong_bo_35_2024_qh15.pdf | page 66]\nĐiều 81. Nội dung quản lý nhà nước về hoạt động đường bộ \n1. Xây dựng, ban hành hoặc trình cơ quan có thẩm quyền ban hành và tổ chức \nthực hiện chính sách, pháp luật; quy chuẩn, tiêu chuẩn kỹ thuật, định mức kinh tế - \nkỹ thuật về hoạt động đường bộ. 2. Xây dựng, ban hành và tổ chức thực hiện quy hoạch, kế hoạch về hoạt động \nđường bộ. 3. Tuyên truyền, phổ biến, giáo dục pháp luật trong hoạt động đường bộ. 4. Đầu tư , xây dựng, quản lý, vận hành, khai thác, bảo trì, bảo vệ kết cấu hạ \ntầng đường bộ. 5. Quản lý vận tải và dịch vụ hỗ trợ vận tải đường bộ. 6. Tổ chức nghiên cứu, ứng dụng khoa học và công nghệ; đào tạo, bồi dưỡng \nnguồn nhân lực trong hoạt động đường bộ. 7. Kiểm tra, thanh tra, giải quyết khiếu nại, tố cáo; xử lý vi phạm pháp luật \ntrong hoạt động đường bộ. 8.",
+        "context_ids": [
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p66_struct_001"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "latency_ms": 74495.76
+  },
+  {
+    "query_id": "q17",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "quyền từ chối vận chuyển hàng hóa của đơn vị vận tải Luật Đường bộ 2024",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p1_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 1,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+            "metadata": {
+              "chapter": "Chương I",
+              "is_empty": false,
+              "char_count": 1567,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p63_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 63,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 65\n\nĐiều 74. Dịch vụ đại lý vận tải hàng hóa \n1. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được thành lập theo quy \nđịnh của pháp luật về doanh nghiệp, pháp luật về hợp tác xã. \n2. Dịch vụ đại lý vận tải hàng hóa là việc tổ chức, cá nhân được đơn vị kinh \ndoanh vận tải thuê thực hiện một hoặc nhiều công đoạn trong quá trình vận tải, trừ \ncông đoạn trực tiếp điều hành phương tiện và người lái xe hoặc quyết định giá \ncước vận tải. \n3. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được hưởng tiền công \ndịch vụ đại lý vận tải theo thoả thuận với đơn vị kinh doanh vận tải. \n4. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa khi xếp, dỡ hàng hóa trên \nxe phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 1973,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p67_struct_003",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 3,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p63_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 63]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 65\n\nĐiều 74. Dịch vụ đại lý vận tải hàng hóa \n1. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được thành lập theo quy \nđịnh của pháp luật về doanh nghiệp, pháp luật về hợp tác xã. \n2. Dịch vụ đại lý vận tải hàng hóa là việc tổ chức, cá nhân được đơn vị kinh \ndoanh vận tải thuê thực hiện một hoặc nhiều công đoạn trong quá trình vận tải, trừ \ncông đoạn trực tiếp điều hành phương tiện và người lái xe hoặc quyết định giá \ncước vận tải. \n3. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được hưởng tiền công \ndịch vụ đại lý vận tải theo thoả thuận với đơn vị kinh doanh vận tải. \n4. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa khi xếp, dỡ hàng hóa trên \nxe phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+        "context_ids": [
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p63_struct_000"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "quyền từ chối vận chuyển hàng hóa của đơn vị kinh doanh vận tải",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p52_struct_001",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 52,
+            "text": "10. Kinh doanh vận tải hành khách theo hợp đồng là loại hình kinh doanh vận \ntải hành khách sử dụng xe ô tô chở người để vận tải hành khách theo hợp đồng vận \ntải bằng văn bản giữa đơn vị kinh doanh vận tải hành khách với người thuê vận tải, \nbao gồm cả thuê người lái xe. Trường hợp đơn vị kinh doanh vận tải sử dụng xe ô tô chở người từ 08 chỗ trở \nlên (không kể chỗ của người lái xe) phải có hợp đồng vận tải bằng văn bản giữa \nđơn vị kinh doanh vận tải hành khách với người thuê vận tải thuê cả chuyến xe, \nbao gồm cả người lái xe. 11. Kinh doanh vận tải hàng hóa bằng xe ô tô là loại hình kinh doanh vận tải \nsử dụng xe ô tô chở hàng, xe ô tô chuyên dùng để vận tải hàng hóa trên đường bộ. 12.",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 2188,
+              "chunk_index": 1,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.03177805800756621,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p63_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 63,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 65\n\nĐiều 74. Dịch vụ đại lý vận tải hàng hóa \n1. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được thành lập theo quy \nđịnh của pháp luật về doanh nghiệp, pháp luật về hợp tác xã. \n2. Dịch vụ đại lý vận tải hàng hóa là việc tổ chức, cá nhân được đơn vị kinh \ndoanh vận tải thuê thực hiện một hoặc nhiều công đoạn trong quá trình vận tải, trừ \ncông đoạn trực tiếp điều hành phương tiện và người lái xe hoặc quyết định giá \ncước vận tải. \n3. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được hưởng tiền công \ndịch vụ đại lý vận tải theo thoả thuận với đơn vị kinh doanh vận tải. \n4. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa khi xếp, dỡ hàng hóa trên \nxe phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 1973,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p51_struct_002",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 51,
+            "text": "Kinh doanh vận tải hành khách bằng xe ô tô gồm: kinh doanh vận tải hành \nkhách theo tuyến cố định, kinh doanh vận tải hành khách công cộng bằng xe buýt, \nkinh doanh vận tải hành khách bằng xe taxi, kinh doanh vận tải hành khách theo hợp \nđồng và loại hình kinh doanh vận tải hành khách mới theo quy định của Chính phủ. 7. Kinh doanh vận tải hành khách theo tuyến cố định là loại hình kinh doanh \nvận tải hành khách sử dụng xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của \nngười lái xe) để vận tải hành khách, có xác định bến xe khách nơi đi, bến xe khách \nnơi đến với lịch trình, hành trình xác định. 8.",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 2522,
+              "chunk_index": 2,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p63_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 63]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 65\n\nĐiều 74. Dịch vụ đại lý vận tải hàng hóa \n1. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được thành lập theo quy \nđịnh của pháp luật về doanh nghiệp, pháp luật về hợp tác xã. \n2. Dịch vụ đại lý vận tải hàng hóa là việc tổ chức, cá nhân được đơn vị kinh \ndoanh vận tải thuê thực hiện một hoặc nhiều công đoạn trong quá trình vận tải, trừ \ncông đoạn trực tiếp điều hành phương tiện và người lái xe hoặc quyết định giá \ncước vận tải. \n3. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được hưởng tiền công \ndịch vụ đại lý vận tải theo thoả thuận với đơn vị kinh doanh vận tải. \n4. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa khi xếp, dỡ hàng hóa trên \nxe phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+        "context_ids": [
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p63_struct_000"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "quyền từ chối vận chuyển hàng hóa của đơn vị kinh doanh vận tải",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p52_struct_001",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 52,
+            "text": "10. Kinh doanh vận tải hành khách theo hợp đồng là loại hình kinh doanh vận \ntải hành khách sử dụng xe ô tô chở người để vận tải hành khách theo hợp đồng vận \ntải bằng văn bản giữa đơn vị kinh doanh vận tải hành khách với người thuê vận tải, \nbao gồm cả thuê người lái xe. Trường hợp đơn vị kinh doanh vận tải sử dụng xe ô tô chở người từ 08 chỗ trở \nlên (không kể chỗ của người lái xe) phải có hợp đồng vận tải bằng văn bản giữa \nđơn vị kinh doanh vận tải hành khách với người thuê vận tải thuê cả chuyến xe, \nbao gồm cả người lái xe. 11. Kinh doanh vận tải hàng hóa bằng xe ô tô là loại hình kinh doanh vận tải \nsử dụng xe ô tô chở hàng, xe ô tô chuyên dùng để vận tải hàng hóa trên đường bộ. 12.",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 2188,
+              "chunk_index": 1,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.03177805800756621,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p63_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 63,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 65\n\nĐiều 74. Dịch vụ đại lý vận tải hàng hóa \n1. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được thành lập theo quy \nđịnh của pháp luật về doanh nghiệp, pháp luật về hợp tác xã. \n2. Dịch vụ đại lý vận tải hàng hóa là việc tổ chức, cá nhân được đơn vị kinh \ndoanh vận tải thuê thực hiện một hoặc nhiều công đoạn trong quá trình vận tải, trừ \ncông đoạn trực tiếp điều hành phương tiện và người lái xe hoặc quyết định giá \ncước vận tải. \n3. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được hưởng tiền công \ndịch vụ đại lý vận tải theo thoả thuận với đơn vị kinh doanh vận tải. \n4. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa khi xếp, dỡ hàng hóa trên \nxe phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 1973,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p51_struct_002",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 51,
+            "text": "Kinh doanh vận tải hành khách bằng xe ô tô gồm: kinh doanh vận tải hành \nkhách theo tuyến cố định, kinh doanh vận tải hành khách công cộng bằng xe buýt, \nkinh doanh vận tải hành khách bằng xe taxi, kinh doanh vận tải hành khách theo hợp \nđồng và loại hình kinh doanh vận tải hành khách mới theo quy định của Chính phủ. 7. Kinh doanh vận tải hành khách theo tuyến cố định là loại hình kinh doanh \nvận tải hành khách sử dụng xe ô tô chở người từ 08 chỗ trở lên (không kể chỗ của \nngười lái xe) để vận tải hành khách, có xác định bến xe khách nơi đi, bến xe khách \nnơi đến với lịch trình, hành trình xác định. 8.",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 2522,
+              "chunk_index": 2,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p63_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 63]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 65\n\nĐiều 74. Dịch vụ đại lý vận tải hàng hóa \n1. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được thành lập theo quy \nđịnh của pháp luật về doanh nghiệp, pháp luật về hợp tác xã. \n2. Dịch vụ đại lý vận tải hàng hóa là việc tổ chức, cá nhân được đơn vị kinh \ndoanh vận tải thuê thực hiện một hoặc nhiều công đoạn trong quá trình vận tải, trừ \ncông đoạn trực tiếp điều hành phương tiện và người lái xe hoặc quyết định giá \ncước vận tải. \n3. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa được hưởng tiền công \ndịch vụ đại lý vận tải theo thoả thuận với đơn vị kinh doanh vận tải. \n4. Đơn vị kinh doanh dịch vụ đại lý vận tải hàng hóa khi xếp, dỡ hàng hóa trên \nxe phải tuân thủ quy định của Luật này và quy định khác của pháp luật có liên quan.",
+        "context_ids": [
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p63_struct_000"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "latency_ms": 23530.62
+  },
+  {
+    "query_id": "q18",
+    "status": "answered",
+    "answer": "Theo Điều 51 Luật Đường bộ 2024, tạm dừng khai thác đường cao tốc là trường hợp tạm không cho phương tiện tham gia giao thông đường bộ trên một chiều, hai chiều, một đoạn hoặc cả tuyến đường cao tốc, trừ các phương tiện làm nhiệm vụ đặc biệt (Quân đội, Công an, phòng cháy chữa cháy, cứu nạn, cứu hộ, cứu thương, hộ đê, khắc phục sự cố, bảo đảm an toàn giao thông) [luat_duong_bo_2024_p46_struct_001]. Các trường hợp phải tạm dừng khai thác bao gồm: công trình bị hư hỏng do sự cố hoặc thiên tai không thể khai thác an toàn; hoặc khi xảy ra sự cố cháy, nổ, tai nạn giao thông đặc biệt nghiêm trọng cần tạm dừng để cứu nạn, cứu hộ và bảo đảm an toàn giao thông [luat_duong_bo_2024_p46_struct_001].",
+    "citations": [
+      "luat_duong_bo_2024_p46_struct_001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "tạm dừng khai thác đường cao tốc Chương III Luật Đường bộ 2024",
+        "filter": {
+          "chapter": "Chương III"
+        },
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p1_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 1,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+            "metadata": {
+              "chapter": "Chương I",
+              "is_empty": false,
+              "char_count": 1567,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p46_struct_001",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 46,
+            "text": "Điều 51. Tạm dừng khai thác đường cao tốc \n1. Tạm dừng khai thác đường cao tốc là trường hợp tạm không cho phương \ntiện tham gia giao thông đường bộ trên một chiều, hai chiều, một đoạn hoặc cả \ntuyến đường cao tốc, trừ phương tiện làm nhiệm vụ của lực lượng Quân đội nhân \ndân, Công an nhân dân, phương tiện thực hiện nhiệm vụ phòng cháy, chữa cháy, \ncứu nạn, cứu hộ, cứu thương, hộ đê, khắc phục sự cố, bảo đảm an toàn giao thông \nđường bộ. 2. Các trường hợp đường cao tốc phải tạm dừng khai thác bao gồm: \na) Công trình bị hư hỏng do xảy ra sự cố công trình, do hậu quả của thiên tai \nkhông thể khai thác, sử dụng an toàn; b) Khi xảy ra sự cố cháy, nổ, tai nạn giao thông đặc biệt nghiêm trọng buộc \nphải tạm dừng khai thác để phục vụ cứu nạn, cứu hộ và bảo đảm an toàn giao \nthông đường bộ;",
+            "metadata": {
+              "chapter": "Chương Iii",
+              "is_empty": false,
+              "char_count": 2186,
+              "chunk_index": 1,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.01639344262295082,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p67_struct_003",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 3,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.016129032258064516,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p46_struct_001 | luat_duong_bo_35_2024_qh15.pdf | page 46]\nĐiều 51. Tạm dừng khai thác đường cao tốc \n1. Tạm dừng khai thác đường cao tốc là trường hợp tạm không cho phương \ntiện tham gia giao thông đường bộ trên một chiều, hai chiều, một đoạn hoặc cả \ntuyến đường cao tốc, trừ phương tiện làm nhiệm vụ của lực lượng Quân đội nhân \ndân, Công an nhân dân, phương tiện thực hiện nhiệm vụ phòng cháy, chữa cháy, \ncứu nạn, cứu hộ, cứu thương, hộ đê, khắc phục sự cố, bảo đảm an toàn giao thông \nđường bộ. 2. Các trường hợp đường cao tốc phải tạm dừng khai thác bao gồm: \na) Công trình bị hư hỏng do xảy ra sự cố công trình, do hậu quả của thiên tai \nkhông thể khai thác, sử dụng an toàn; b) Khi xảy ra sự cố cháy, nổ, tai nạn giao thông đặc biệt nghiêm trọng buộc \nphải tạm dừng khai thác để phục vụ cứu nạn, cứu hộ và bảo đảm an toàn giao \nthông đường bộ;",
+        "context_ids": [
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p46_struct_001"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "latency_ms": 13130.64
+  },
+  {
+    "query_id": "q19",
+    "status": "answered",
+    "answer": "Trong hoạt động hàng hóa ký gửi, tờ khai gửi hàng hóa được lập thành 02 bản, mỗi bên giữ một bản [luat_duong_bo_2024_p60_struct_001]. Khi nhận hàng, người nhận hàng hóa ký gửi có trách nhiệm xuất trình giấy tờ tùy thân [luat_duong_bo_2024_p60_struct_001].",
+    "citations": [
+      "luat_duong_bo_2024_p60_struct_001"
+    ],
+    "events": [
+      {
+        "event": "search",
+        "query": "tờ khai gửi hàng hóa ký gửi lập thành mấy bản người nhận hàng xuất trình gì",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p60_struct_001",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 60,
+            "text": "4. Đơn vị kinh doanh vận tải có trách nhiệm kiểm tra hàng hoá ký gửi theo tờ \nkhai gửi hàng hoá và xác nhận vào tờ khai gửi hàng hoá. Tờ khai gửi hàng hoá \nđược lập thành 02 bản, mỗi bên giữ một bản. 5. Người nhận hàng hoá ký gửi phải xuất trình giấy tờ tuỳ thân khi nhận hàng. 6. Việc bồi thường thiệt hại hàng hóa ký gửi thực hiện theo quy định của pháp \nluật về dân sự và quy định khác của pháp luật có liên quan, trừ trường hợp quy \nđịnh tại khoản 7 Điều này. 7. Đơn vị kinh doanh vận tải được miễn bồi thường thiệt hại hàng hoá ký gửi \ntrong các trường hợp sau đây: \na) Do đặc tính tự nhiên hoặc khuyết tật vốn có của hàng hoá ký gửi hoặc hao \nhụt ở mức cho phép; b) Do việc bắt giữ hoặc cưỡng chế của cơ quan nhà nước có thẩm quyền đối \nvới hàng hoá ký gửi; c) Do nguyên nhân bất khả kháng;",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 1999,
+              "chunk_index": 1,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.03278688524590164,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p59_struct_002",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 59,
+            "text": "Điều 68. Hàng hoá ký gửi \n1. Hàng hoá ký gửi là hàng hoá gửi theo xe ô tô kinh doanh vận tải hành khách \nmà người gửi không đi cùng trên xe, được thực hiện theo thỏa thuận giữa người \nkinh doanh vận tải và người gửi hàng. \n2. Chỉ được nhận vận tải hàng hóa có kích thước, trọng lượng phù hợp với \nphương tiện và không thuộc hàng hóa cấm lưu thông , hàng hóa nguy hiểm, động \nvật hoang dã, hàng có mùi hôi thối, động vật, hàng hóa khác có ảnh hưởng đến sức \nkhỏe của hành khách, môi trường. \n3. Người có hàng hoá ký gửi phải lập tờ khai gửi hàng hoá, trong đó kê khai \ntên, số lượng, khối lượng hàng hoá ; tên, địa chỉ, số định danh cá nhân của người \ngửi và người nhận hàng hóa.",
+            "metadata": {
+              "chapter": "Chương Iv",
+              "is_empty": false,
+              "char_count": 2079,
+              "chunk_index": 2,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.03225806451612903,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p5_struct_002",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 5,
+            "text": "Lập điểm đón, trả khách, bốc dỡ hàng hóa trái quy định của pháp luật.",
+            "metadata": {
+              "chapter": "Chương Ii",
+              "is_empty": false,
+              "char_count": 2000,
+              "chunk_index": 2,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.015873015873015872,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p60_struct_001 | luat_duong_bo_35_2024_qh15.pdf | page 60]\n4. Đơn vị kinh doanh vận tải có trách nhiệm kiểm tra hàng hoá ký gửi theo tờ \nkhai gửi hàng hoá và xác nhận vào tờ khai gửi hàng hoá. Tờ khai gửi hàng hoá \nđược lập thành 02 bản, mỗi bên giữ một bản. 5. Người nhận hàng hoá ký gửi phải xuất trình giấy tờ tuỳ thân khi nhận hàng. 6. Việc bồi thường thiệt hại hàng hóa ký gửi thực hiện theo quy định của pháp \nluật về dân sự và quy định khác của pháp luật có liên quan, trừ trường hợp quy \nđịnh tại khoản 7 Điều này. 7. Đơn vị kinh doanh vận tải được miễn bồi thường thiệt hại hàng hoá ký gửi \ntrong các trường hợp sau đây: \na) Do đặc tính tự nhiên hoặc khuyết tật vốn có của hàng hoá ký gửi hoặc hao \nhụt ở mức cho phép; b) Do việc bắt giữ hoặc cưỡng chế của cơ quan nhà nước có thẩm quyền đối \nvới hàng hoá ký gửi; c) Do nguyên nhân bất khả kháng;\n\n[luat_duong_bo_2024_p5_struct_002 | luat_duong_bo_35_2024_qh15.pdf | page 5]\nLập điểm đón, trả khách, bốc dỡ hàng hóa trái quy định của pháp luật.",
+        "context_ids": [
+          "luat_duong_bo_2024_p60_struct_001",
+          "luat_duong_bo_2024_p5_struct_002"
+        ]
+      },
+      {
+        "event": "answer"
+      }
+    ],
+    "latency_ms": 8733.66
+  },
+  {
+    "query_id": "q20",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "search",
+        "query": "hiệu lực thi hành Luật Đường bộ 35/2024/QH15",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p67_struct_003",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 3,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.03225806451612903,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p1_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 1,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+            "metadata": {
+              "chapter": "Chương I",
+              "is_empty": false,
+              "char_count": 1567,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.032018442622950824,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p67_struct_002",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "1.1 Phí sử dụng đường bộ thu qua đầu phương \ntiện đối với xe ô tô \nChính phủ \n1.1a Phí sử dụng đư ờng bộ cao t ốc đ ối v ới \nphương tiện lưu thông trên đường bộ cao tốc \nthuộc sở hữu toàn dân do Nhà nước đại diện \nchủ sở hữu và trực tiếp quản lý, khai thác \nChính phủ đối với đường bộ \ncao tốc do Bộ Giao thông vận \ntải quả n lý; Hộ i đồ ng nhân \ndân cấp tỉnh đối với đường bộ \ncao tốc do địa phương quản lý \n2. Sửa đổi, bổ sung mục 23 trong Danh mục quy hoạch có tính chất kỹ thuật, \nchuyên ngành thuộc Phụ lục II ban hành kèm theo Luật Quy hoạch số 21/2017/QH14 \nđã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số \n16/2023/QH15, Luật số 28/2023/QH15 và Luật số 31/2024/QH15 như sau:",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 2,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.031746031746031744,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p67_struct_003 | luat_duong_bo_35_2024_qh15.pdf | page 67]\nSTT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15\n\n[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p67_struct_002 | luat_duong_bo_35_2024_qh15.pdf | page 67]\n1.1 Phí sử dụng đường bộ thu qua đầu phương \ntiện đối với xe ô tô \nChính phủ \n1.1a Phí sử dụng đư ờng bộ cao t ốc đ ối v ới \nphương tiện lưu thông trên đường bộ cao tốc \nthuộc sở hữu toàn dân do Nhà nước đại diện \nchủ sở hữu và trực tiếp quản lý, khai thác \nChính phủ đối với đường bộ \ncao tốc do Bộ Giao thông vận \ntải quả n lý; Hộ i đồ ng nhân \ndân cấp tỉnh đối với đường bộ \ncao tốc do địa phương quản lý \n2. Sửa đổi, bổ sung mục 23 trong Danh mục quy hoạch có tính chất kỹ thuật, \nchuyên ngành thuộc Phụ lục II ban hành kèm theo Luật Quy hoạch số 21/2017/QH14 \nđã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số \n16/2023/QH15, Luật số 28/2023/QH15 và Luật số 31/2024/QH15 như sau:",
+        "context_ids": [
+          "luat_duong_bo_2024_p67_struct_003",
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p67_struct_002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "hiệu lực thi hành Luật Đường bộ 35/2024/QH15",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p67_struct_003",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 3,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.03225806451612903,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p1_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 1,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+            "metadata": {
+              "chapter": "Chương I",
+              "is_empty": false,
+              "char_count": 1567,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.032018442622950824,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p67_struct_002",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "1.1 Phí sử dụng đường bộ thu qua đầu phương \ntiện đối với xe ô tô \nChính phủ \n1.1a Phí sử dụng đư ờng bộ cao t ốc đ ối v ới \nphương tiện lưu thông trên đường bộ cao tốc \nthuộc sở hữu toàn dân do Nhà nước đại diện \nchủ sở hữu và trực tiếp quản lý, khai thác \nChính phủ đối với đường bộ \ncao tốc do Bộ Giao thông vận \ntải quả n lý; Hộ i đồ ng nhân \ndân cấp tỉnh đối với đường bộ \ncao tốc do địa phương quản lý \n2. Sửa đổi, bổ sung mục 23 trong Danh mục quy hoạch có tính chất kỹ thuật, \nchuyên ngành thuộc Phụ lục II ban hành kèm theo Luật Quy hoạch số 21/2017/QH14 \nđã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số \n16/2023/QH15, Luật số 28/2023/QH15 và Luật số 31/2024/QH15 như sau:",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 2,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.031746031746031744,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p67_struct_003 | luat_duong_bo_35_2024_qh15.pdf | page 67]\nSTT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15\n\n[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p67_struct_002 | luat_duong_bo_35_2024_qh15.pdf | page 67]\n1.1 Phí sử dụng đường bộ thu qua đầu phương \ntiện đối với xe ô tô \nChính phủ \n1.1a Phí sử dụng đư ờng bộ cao t ốc đ ối v ới \nphương tiện lưu thông trên đường bộ cao tốc \nthuộc sở hữu toàn dân do Nhà nước đại diện \nchủ sở hữu và trực tiếp quản lý, khai thác \nChính phủ đối với đường bộ \ncao tốc do Bộ Giao thông vận \ntải quả n lý; Hộ i đồ ng nhân \ndân cấp tỉnh đối với đường bộ \ncao tốc do địa phương quản lý \n2. Sửa đổi, bổ sung mục 23 trong Danh mục quy hoạch có tính chất kỹ thuật, \nchuyên ngành thuộc Phụ lục II ban hành kèm theo Luật Quy hoạch số 21/2017/QH14 \nđã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số \n16/2023/QH15, Luật số 28/2023/QH15 và Luật số 31/2024/QH15 như sau:",
+        "context_ids": [
+          "luat_duong_bo_2024_p67_struct_003",
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p67_struct_002"
+        ]
+      },
+      {
+        "event": "search",
+        "query": "hiệu lực thi hành Luật Đường bộ 35/2024/QH15",
+        "filter": null,
+        "results": [
+          {
+            "id": "luat_duong_bo_2024_p67_struct_003",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "STT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 3,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.03225806451612903,
+            "rank": 1
+          },
+          {
+            "id": "luat_duong_bo_2024_p1_struct_000",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 1,
+            "text": "CÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.",
+            "metadata": {
+              "chapter": "Chương I",
+              "is_empty": false,
+              "char_count": 1567,
+              "chunk_index": 0,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.032018442622950824,
+            "rank": 2
+          },
+          {
+            "id": "luat_duong_bo_2024_p67_struct_002",
+            "document_id": "luat_duong_bo_2024",
+            "source": "luat_duong_bo_35_2024_qh15.pdf",
+            "source_id": "luat_duong_bo_2024",
+            "page": 67,
+            "text": "1.1 Phí sử dụng đường bộ thu qua đầu phương \ntiện đối với xe ô tô \nChính phủ \n1.1a Phí sử dụng đư ờng bộ cao t ốc đ ối v ới \nphương tiện lưu thông trên đường bộ cao tốc \nthuộc sở hữu toàn dân do Nhà nước đại diện \nchủ sở hữu và trực tiếp quản lý, khai thác \nChính phủ đối với đường bộ \ncao tốc do Bộ Giao thông vận \ntải quả n lý; Hộ i đồ ng nhân \ndân cấp tỉnh đối với đường bộ \ncao tốc do địa phương quản lý \n2. Sửa đổi, bổ sung mục 23 trong Danh mục quy hoạch có tính chất kỹ thuật, \nchuyên ngành thuộc Phụ lục II ban hành kèm theo Luật Quy hoạch số 21/2017/QH14 \nđã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số \n16/2023/QH15, Luật số 28/2023/QH15 và Luật số 31/2024/QH15 như sau:",
+            "metadata": {
+              "chapter": "Chương Vi",
+              "is_empty": false,
+              "char_count": 1933,
+              "chunk_index": 2,
+              "chunk_strategy": "by_paragraph"
+            },
+            "score": 0.031746031746031744,
+            "rank": 3
+          }
+        ],
+        "context": "[luat_duong_bo_2024_p67_struct_003 | luat_duong_bo_35_2024_qh15.pdf | page 67]\nSTT TÊN QUY HOẠCH VĂN BẢN QUY ĐỊNH \n23 Quy hoạch kết cấu hạ tầng đường bộ Luật Đường bộ số 35/2024/QH15\n\n[luat_duong_bo_2024_p1_struct_000 | luat_duong_bo_35_2024_qh15.pdf | page 1]\nCÔNG BÁO/Số 983 + 984/Ngày 25-8-2024 3\n\nQUỐC HỘI\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM \nĐộc lập - Tự do - Hạnh phúc \nLuật số: 35/2024/QH15\n\nLUẬT \nĐƯỜNG BỘ\n\nCăn cứ Hiến pháp nước Cộng hòa xã hội chủ nghĩa Việt Nam; \nQuốc hội ban hành Luật Đường bộ.\n\nChương I \nNHỮNG QUY ĐỊNH CHUNG\n\nĐiều 1. Phạm vi điều chỉnh \nLuật này quy định về hoạt động đường bộ và quản lý nhà nước về hoạt động \nđường bộ.\n\n[luat_duong_bo_2024_p67_struct_002 | luat_duong_bo_35_2024_qh15.pdf | page 67]\n1.1 Phí sử dụng đường bộ thu qua đầu phương \ntiện đối với xe ô tô \nChính phủ \n1.1a Phí sử dụng đư ờng bộ cao t ốc đ ối v ới \nphương tiện lưu thông trên đường bộ cao tốc \nthuộc sở hữu toàn dân do Nhà nước đại diện \nchủ sở hữu và trực tiếp quản lý, khai thác \nChính phủ đối với đường bộ \ncao tốc do Bộ Giao thông vận \ntải quả n lý; Hộ i đồ ng nhân \ndân cấp tỉnh đối với đường bộ \ncao tốc do địa phương quản lý \n2. Sửa đổi, bổ sung mục 23 trong Danh mục quy hoạch có tính chất kỹ thuật, \nchuyên ngành thuộc Phụ lục II ban hành kèm theo Luật Quy hoạch số 21/2017/QH14 \nđã được sửa đổi, bổ sung một số điều theo Luật số 15/2023/QH15, Luật số \n16/2023/QH15, Luật số 28/2023/QH15 và Luật số 31/2024/QH15 như sau:",
+        "context_ids": [
+          "luat_duong_bo_2024_p67_struct_003",
+          "luat_duong_bo_2024_p1_struct_000",
+          "luat_duong_bo_2024_p67_struct_002"
+        ]
+      },
+      {
+        "event": "search_limit"
+      }
+    ],
+    "latency_ms": 11481.48
+  },
+  {
+    "query_id": "q_test_unans_01",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "latency_ms": 9720.51
+  },
+  {
+    "query_id": "q_test_unans_02",
+    "status": "abstain",
+    "answer": "Không đủ bằng chứng để trả lời.",
+    "citations": [],
+    "events": [
+      {
+        "event": "invalid_or_missing_citations"
+      }
+    ],
+    "latency_ms": 39639.35
+  }
+]
